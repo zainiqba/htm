@@ -13,6 +13,7 @@
             background-size: cover;
          background-position: center;
          background-repeat: no-repeat;
+         background-attachment: fixed;
         
         
         
@@ -26,7 +27,7 @@
     top: 0%;
     left: 0%;
     width: 100%;
-    background-color:red;
+    background-color:blue;
     padding: 10px 100px;
     display: flex;
     justify-content: space-between;
